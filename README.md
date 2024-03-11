@@ -1,6 +1,6 @@
 # Home Spotify
 
-# Sobre o projeto
+## Sobre o projeto
 
 ### link para o projeto -> https://jorgecardosodev.github.io/homespotify/
 
